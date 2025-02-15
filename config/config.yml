@@ -1,0 +1,6 @@
+botpy:
+    appid: "qqbot appid"
+    secret: "qqbot secret"
+intents:
+    public_messages: true
+    public_guild_messages: true
